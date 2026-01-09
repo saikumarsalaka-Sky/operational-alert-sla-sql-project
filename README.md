@@ -1,5 +1,10 @@
 # operational-alert-sla-sql-project
 
+Project Overview
+
+This project analyzes operational alert data and SLA performance using SQL.
+The goal is to identify SLA breaches, alert patterns, resolution efficiency, and operational bottlenecks.
+
 SQL project analyzing operational alerts and SLA performance
 
 [Operational Alert & SLA Performance Analysis using SQL.sql](https://github.com/user-attachments/files/24523594/Operational.Alert.SLA.Performance.Analysis.using.SQL.sql)
