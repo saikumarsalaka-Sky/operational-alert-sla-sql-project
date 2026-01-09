@@ -11,6 +11,57 @@ The goal is to identify SLA breaches, alert patterns, resolution efficiency, and
 
 #Relational Database Concepts.
 
+Business Objectives
+
+Track SLA compliance
+
+Identify delayed alerts
+
+Monitor resolution performance
+
+Improve operational efficiency
+
+## Database Tables
+
+1.alerts
+
+2.tickets
+
+3.sla_tracking
+
+4.teams
+
+## Key Analysis Performed
+
+SLA breach identification
+
+Average resolution time
+
+Alert volume by category
+
+Team performance comparison
+
+Critical alert prioritization
+
+
+## Business Insights
+
+Identified teams with frequent SLA breaches
+
+Highlighted critical alert categories
+
+Detected peak alert generation periods
+
+## Business Value
+
+This analysis helps operations teams:
+
+Improve SLA compliance
+
+Reduce resolution delays
+
+Optimize alert handling workflows
+
 
 
 SQL project analyzing operational alerts and SLA performance
